@@ -1,4 +1,5 @@
 Nessus Essentials Full Scan Summary – Localhost
+
 Scan Type: Full System Scan
 Target: Localhost (192.168.106.85)
 Scanner: Nessus Essentials
